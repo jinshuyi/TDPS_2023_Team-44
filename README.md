@@ -1,6 +1,6 @@
 # TDPS_2023_Team-44
 
-The presentation video is shown below(###**click the picture**):
+The presentation video is shown below(**## click the picture**):
 
 [![Watch the video](https://github.com/jinshuyi/TDPS_2023_Team-44/blob/main/image.png?raw=true)](https://www.bilibili.com/video/BV1Vu4y1Z7St)
 
