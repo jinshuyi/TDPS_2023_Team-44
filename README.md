@@ -1,8 +1,9 @@
 # TDPS_2023_Team-44
 
-The presentation video is shown in the link below:
+The presentation video is shown below:
 
-https://www.bilibili.com/video/BV1Vu4y1Z7St/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bf3d74abd71278d726202456546f6c7f
+[![Watch the video](https://your-thumbnail-url.com)](https://www.bilibili.com/video/BV1Vu4y1Z7St)
+
 
 
 Machine vision and automatic control are highly significant and widely explored domains in 
