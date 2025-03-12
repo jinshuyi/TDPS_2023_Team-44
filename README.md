@@ -2,10 +2,10 @@
 
 The presentation video is shown below(click the picture):
 
-[![Watch the video](https://your-thumbnail-url.com)](https://www.bilibili.com/video/BV1Vu4y1Z7St)
+[![Watch the video](https://github.com/jinshuyi/TDPS_2023_Team-44/blob/main/image.png?raw=true)](https://www.bilibili.com/video/BV1Vu4y1Z7St)
 
 
-
+Abstract:
 Machine vision and automatic control are highly significant and widely explored domains in 
 the field of electronic engineering. They have emerged as crucial components for numerous 
 applications across various industries. This project presents the design of an autonomous 
