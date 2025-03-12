@@ -1,6 +1,6 @@
 # TDPS_2023_Team-44
 
-The presentation video is shown below:
+The presentation video is shown below(click the picture):
 
 [![Watch the video](https://your-thumbnail-url.com)](https://www.bilibili.com/video/BV1Vu4y1Z7St)
 
